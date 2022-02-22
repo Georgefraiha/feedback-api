@@ -7,7 +7,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ## Run project:
 ### `npm run dev`
 
-## [Preview App](https://geo-feedback-react.netlify.app/)
+## [Preview App without api](https://geo-feedback-react.netlify.app/)
 
 ![preview image](https://github.com/Georgefraiha/Feedback/blob/master/screenshots/1.png)
 
